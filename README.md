@@ -19,12 +19,37 @@ I am a fourth-year undergraduate computer science student at Brown University co
 
 ## Projects I'm currently working on:
 
-💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
+- 💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
 
-📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
+- 📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
 
 ## Projects I've completed:
 
-🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4)
+- 🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4)
 
-🎨[UI/UX Research Portfolio](https://sillyseal111portfolio.netlify.app/)
+- 🎨[UI/UX Research Portfolio](https://sillyseal111portfolio.netlify.app/)
+
+## Technical
+
+- React.js
+- Python
+- TypeScript
+- JavaScript
+- SQL
+- MongoDB
+- SQLite
+- Pandas
+- HTML/CSS
+- Node.js
+- Express.js
+- C
+- C++
+- Git
+- Docker
+- Bash
+- Linux
+- Figma
+
+### Contact
+
+<indiameicorengold@gmail.com>
