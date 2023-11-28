@@ -1,4 +1,4 @@
-# Hello, I'm Indiamei!
+# Hello, I'm Indiamei! 👋
 
 <!--
 **indiameicorengold/indiameicorengold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,12 @@ I am a fourth-year undergraduate computer science student at Brown University co
 
 Here are links to some of the projects that I've worked on:
 
-[Serre Lab Rapid Visual Categorization Experiment](https://rvis.clps.brown.edu/)
+💻[Serre Lab Experiment](https://rvis.clps.brown.edu/)
 
 <!-- Make this alt title better -->
 
-[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
+📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
 
-[UI/UX Research Portfolio](https://github.com/indiameicorengold/indiameicorengold.git)
+🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4)
+
+🎨[UI/UX Research Portfolio](https://github.com/indiameicorengold/indiameicorengold.git)
