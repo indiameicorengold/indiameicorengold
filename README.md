@@ -19,7 +19,7 @@ I am a fourth-year undergraduate computer science student at Brown University co
 
 Here are links to some of the projects that I've worked on:
 
-💻[Serre Lab Experiment](https://rvis.clps.brown.edu/)
+💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
 
 <!-- Make this alt title better -->
 
