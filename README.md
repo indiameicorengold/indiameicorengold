@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fourth-year computer science student at Brown University interested in design and visual computing.
+I am a fourth-year computer science student at Brown University interested in design and visual computing. I am particularly interested in full-stack development!
+
+Here are some links to the projects that I've worked on: 
