@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **indiameicorengold/indiameicorengold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a fourth-year computer science student at Brown University interested in design and visual computing.
