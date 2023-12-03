@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 I am a fourth-year undergraduate computer science student at Brown University completing the design and visual computing pathways. I am particularly interested in full stack development! Currently, I am working as a full-stack developer intern for the Serre Lab.
 
-## Projects I'm currently working on:
+## Projects in Development
 
 - 💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
 
 - 📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
 
-## Projects I've completed:
+## Past Projects
 
 - 🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4)
 
