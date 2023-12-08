@@ -21,7 +21,7 @@ I am a fourth-year undergraduate computer science student at Brown University co
 
 - 💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
 
-- 📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/)
+<!-- - 📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/) -->
 
 ## Past Projects
 
