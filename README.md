@@ -29,7 +29,7 @@ I am a fourth-year undergraduate computer science student at Brown University co
 
 - 🎨[UI/UX Research Portfolio](https://sillyseal111portfolio.netlify.app/)
 
-## Technical
+<!-- ## Technical
 
 - React.js
 - Python
@@ -49,6 +49,8 @@ I am a fourth-year undergraduate computer science student at Brown University co
 - Bash
 - Linux
 - Figma
+
+-->
 
 ### Contact
 
