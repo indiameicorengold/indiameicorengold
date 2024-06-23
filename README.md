@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fourth-year undergraduate computer science student at Brown University completing the design and visual computing pathways. I am particularly interested in full stack development! Currently, I am working as a full-stack developer intern for the Serre Lab.
+<!-- I am a fourth-year undergraduate computer science student at Brown University completing the design and visual computing pathways. I am particularly interested in full stack development! Currently, I am working as a full-stack developer intern for the Serre Lab. -->
 
 ## Projects in Development
 
