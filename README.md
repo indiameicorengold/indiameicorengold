@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🏫[Dabble](https://devpost.com/software/dabble-cab-assistant?ref_content=my-projects-tab&ref_feature=my_projects)
 
-- 🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4)
+- 🌟[Develop for Good](https://www.notion.so/developforgood/Tanzanian-Children-s-Fund-Project-Case-Study-6aa777254f6840eea0d597a989281f21?pvs=4) (requires Notion login)
 
 - 🎨[UI/UX Research Portfolio](https://sillyseal111portfolio.netlify.app/)
 
