@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 <!-- I am a fourth-year undergraduate computer science student at Brown University completing the design and visual computing pathways. I am particularly interested in full stack development! Currently, I am working as a full-stack developer intern for the Serre Lab. -->
 
-## Projects in Development
+<!-- ## Projects in Development -->
 
-- 💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
 
 <!-- - 📃[Hypermedia application](https://hypertext-hypermedia.vercel.app/) -->
 
 ## Past Projects
+- 💻[Rapid Visual Categorization](https://rvis.clps.brown.edu/)
+
+- 💻[ClickMe](https://clickme.clps.brown.edu/)
 
 - 🏫[Dabble](https://devpost.com/software/dabble-cab-assistant?ref_content=my-projects-tab&ref_feature=my_projects)
 
